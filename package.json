@@ -1,7 +1,7 @@
 {
   "name": "grunt-compile-handlebars",
   "description": "Compile handlebar templates, outputting static HTML",
-  "version": "3.0.1",
+  "version": "3.0.1-altruize.1",
   "homepage": "https://github.com/patrickkettner/grunt-compile-handlebars",
   "authors": [
     {
@@ -17,10 +17,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/patrickkettner/grunt-compile-handlebars.git"
+    "url": "git://github.com/Altruize/grunt-compile-handlebars.git"
   },
   "bugs": {
-    "url": "https://github.com/patrickkettner/grunt-compile-handlebars/issues"
+    "url": "https://github.com/Altruize/grunt-compile-handlebars/issues"
   },
   "licenses": [
     {
@@ -31,7 +31,7 @@
   "main": "grunt.js",
   "bin": "bin/grunt-compile-handlebars",
   "engines": {
-    "node": ">=14"
+    "node": ">=16"
   },
   "scripts": {
     "test": "grunt test"
