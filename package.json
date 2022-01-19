@@ -1,13 +1,20 @@
 {
   "name": "grunt-compile-handlebars",
   "description": "Compile handlebar templates, outputting static HTML",
-  "version": "2.0.2",
+  "version": "3.0.0",
   "homepage": "https://github.com/patrickkettner/grunt-compile-handlebars",
-  "author": {
-    "name": "Patrick Kettner",
-    "email": "patrick@patrickkettner.com",
-    "url": "https://github.com/patrickkettner"
-  },
+  "authors": [
+    {
+      "name": "Patrick Kettner",
+      "email": "patrick@patrickkettner.com",
+      "url": "https://github.com/patrickkettner"
+    },
+    {
+      "name": "Liam Conrad",
+      "email": "liam@letsthrive360.com",
+      "url": "https://github.com/Altruize"
+    }
+  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/patrickkettner/grunt-compile-handlebars.git"
